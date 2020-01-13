@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/css/main.c869ab27.chunk.css",
-    "main.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/main.6c4ca8eb.chunk.js",
-    "main.js.map": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/main.6c4ca8eb.chunk.js.map",
-    "runtime-main.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/runtime-main.51614db5.js",
-    "runtime-main.js.map": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/runtime-main.51614db5.js.map",
-    "static/js/2.9c3d41a4.chunk.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/2.9c3d41a4.chunk.js",
-    "static/js/2.9c3d41a4.chunk.js.map": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/2.9c3d41a4.chunk.js.map",
-    "index.html": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/index.html",
-    "precache-manifest.10575eedd27c868985d7b2ed419ebd3d.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/precache-manifest.10575eedd27c868985d7b2ed419ebd3d.js",
-    "service-worker.js": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/service-worker.js",
-    "static/css/main.c869ab27.chunk.css.map": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/css/main.c869ab27.chunk.css.map",
-    "static/js/2.9c3d41a4.chunk.js.LICENSE": "%3CGITHUB_USERNAME%3E.github.io/%3CAPP_NAME%3E/static/js/2.9c3d41a4.chunk.js.LICENSE"
+    "main.css": "/personal-assistant/static/css/main.c869ab27.chunk.css",
+    "main.js": "/personal-assistant/static/js/main.6c4ca8eb.chunk.js",
+    "main.js.map": "/personal-assistant/static/js/main.6c4ca8eb.chunk.js.map",
+    "runtime-main.js": "/personal-assistant/static/js/runtime-main.9f1a1dcf.js",
+    "runtime-main.js.map": "/personal-assistant/static/js/runtime-main.9f1a1dcf.js.map",
+    "static/js/2.aaa4e16f.chunk.js": "/personal-assistant/static/js/2.aaa4e16f.chunk.js",
+    "static/js/2.aaa4e16f.chunk.js.map": "/personal-assistant/static/js/2.aaa4e16f.chunk.js.map",
+    "index.html": "/personal-assistant/index.html",
+    "precache-manifest.82d311d04649b5549d8afec3dd6fc938.js": "/personal-assistant/precache-manifest.82d311d04649b5549d8afec3dd6fc938.js",
+    "service-worker.js": "/personal-assistant/service-worker.js",
+    "static/css/main.c869ab27.chunk.css.map": "/personal-assistant/static/css/main.c869ab27.chunk.css.map",
+    "static/js/2.aaa4e16f.chunk.js.LICENSE": "/personal-assistant/static/js/2.aaa4e16f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.51614db5.js",
-    "static/js/2.9c3d41a4.chunk.js",
+    "static/js/runtime-main.9f1a1dcf.js",
+    "static/js/2.aaa4e16f.chunk.js",
     "static/css/main.c869ab27.chunk.css",
     "static/js/main.6c4ca8eb.chunk.js"
   ]
